@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Polina</h1>
 <h3 align="center">I'm from Ukraine :ukraine: and I like to learn</h3>
 
-- 🌱 I’m currently learning **Data Analytics at BeCode** and Python at **Prjctr**
+- 🌱 I’m currently learning **Data Analytics** at **BeCode** and **Python** at **Prjctr**
 
 <p align="left">Languages and Tools:</p>
 <p align="left"> 
